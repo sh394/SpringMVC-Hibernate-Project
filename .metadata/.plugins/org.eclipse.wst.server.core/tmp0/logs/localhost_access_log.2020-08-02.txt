@@ -56,3 +56,6 @@
 0:0:0:0:0:0:0:1 - - [02/Aug/2020:08:20:28 +0900] "GET /web-customer-tracker/resources/css/add-customer-style.css HTTP/1.1" 200 566
 0:0:0:0:0:0:0:1 - - [02/Aug/2020:08:21:04 +0900] "POST /web-customer-tracker/customer/saveCustomer HTTP/1.1" 302 -
 0:0:0:0:0:0:0:1 - - [02/Aug/2020:08:21:04 +0900] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 2617
+127.0.0.1 - - [02/Aug/2020:08:24:58 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:08:24:58 +0900] "GET /web-customer-tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Aug/2020:08:24:59 +0900] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 2617
