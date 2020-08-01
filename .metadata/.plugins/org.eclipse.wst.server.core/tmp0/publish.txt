@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Aug 02 08:24:29 KST 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\User\\springmvc-hibernate-project\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\User\\springmvc-hibernate-project\\web-customer-tracker\\WebContent\\WEB-INF\\lib\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar
